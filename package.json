@@ -1,0 +1,43 @@
+{
+  "name": "nidhi-desais-application-2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "13.5.6",
+    "react-modal": "^3.14.4",
+    "react-select": "^5.2.1",
+    "react-pro-sidebar": "^1.0.0",
+    "react-circular-progressbar": "^2.0.4",
+    "react-accessible-accordion": "^4.0.0",
+    "@dhiwise/react-switch": "^1.0.2",
+    "react-range": "^1.8.14",
+    "prop-types": "^15.8.1",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tanstack/react-table": "^8.5.30"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.2",
+    "postcss": "8.4.8",
+    "tailwindcss": "3.0.18"
+  }
+}
